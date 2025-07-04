@@ -41,18 +41,3 @@ Light Chaudhary
 
 License
 MIT
-
-
-Then save the file: `Cmd + S`
-
----
-
-### 🔹 3. Push the Updated README to GitHub
-
-Back in Terminal:
-
-```bash
-git add README.md
-git commit -m "Updated README with project details"
-git push
-s
